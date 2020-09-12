@@ -1,0 +1,24 @@
+{
+  "name": "demoshopee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch sass/style.scss:css/style.css "
+  },
+  "author": "Adrian DEV",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmol/Demo-Shopee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adrianmol/Demo-Shopee/issues"
+  },
+  "homepage": "https://github.com/adrianmol/Demo-Shopee#readme",
+  "description": ""
+}
